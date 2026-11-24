@@ -1,0 +1,6 @@
+{
+  "name": "Project Vice World: Solana Bay",
+  "description": "An open-world third-person 3D action-adventure set in the coastal metropolis of Solana Bay, featuring drivable vehicles, living traffic and NPCs, police pursuits, dynamic weather and day/night cycles, and story missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
